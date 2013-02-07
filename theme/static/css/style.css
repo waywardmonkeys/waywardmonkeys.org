@@ -1,0 +1,73 @@
+@media (min-width: 481px) {
+  body {
+    padding-top: 60px;
+    padding-bottom: 70px;
+  }
+}
+
+.sidebar-explainer {
+  padding: 15px 15px 0;
+}
+
+#featured, #content, .well {
+  background-color: white;
+  border: 1px solid #AF998B;
+  border-radius: 4px;
+  padding: 19px;
+}
+
+.well {
+  padding: 5px;
+}
+
+#content {
+  margin-bottom: 20px;
+}
+
+footer.navbar {
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+h1, h2, h3, h4, h5, h6, .nav-header, .entry-title a, .entry-title a:visited, .entry-title a:hover {
+  color: #C9A27B;
+  text-decoration: none;
+}
+
+.nav-list a, .nav-list a:hover, .nav-list a:visited, .nav-list a:focus, a, a:hover, a:visited, a:focus {
+  color: #71B1A1;
+}
+
+.twitter-share-button {
+  float: right;
+}
+
+.readmore {
+  display: block;
+  margin-left: auto;
+  text-align: right;
+}
+
+.post-info, .post-info a {
+  color: #999;
+  margin: 5px 0;
+}
+
+.post-info a {
+  text-decoration: underline;
+}
+
+.post-info a.label {
+  color: white;
+  font-weight: normal;
+  text-decoration: none;
+  margin: 0 2px;
+}
+
+img.align-right {
+  float: right;
+}
+
+div.comments {
+  padding-top: 20px;
+}

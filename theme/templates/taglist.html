@@ -1,0 +1,2 @@
+{% if article.tags %}<p>{% for tag in article.tags %}<a class="label" href="{{ SITEURL }}/{{ tag.url }}"><i class="icon-tag icon-white"></i>{{ tag }}</a>{% endfor %}</p>{% endif %}
+{% if PDF_PROCESSOR %}<p><a href="{{ SITEURL }}/pdf/{{ article.slug }}.pdf">get the pdf</a></p>{% endif %}
