@@ -3,7 +3,7 @@ SWIG and JavaScript - Part One
 
 :author: Bruce Mitchener, Jr.
 :date: 2014-10-01
-:category: ProjectX
+:category: Development
 :tags: SWIG, JavaScript, ProjectX
 
 I experiment with a lot of ideas for projects and see which ideas stick,
