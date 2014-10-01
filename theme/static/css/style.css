@@ -38,6 +38,11 @@ h1, h2, h3, h4, h5, h6, .nav-header, .entry-title a, .entry-title a:visited, .en
   color: #71B1A1;
 }
 
+.nav-list>.active>a, .nav-list>.active>a:hover, .nav-list>.active>a:focus {
+  color: white;
+  background-color: #71B1A1;
+}
+
 .twitter-share-button {
   float: right;
 }
