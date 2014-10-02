@@ -21,7 +21,12 @@ PAGE_SAVE_AS = '{slug}/index.html'
 PAGES = ()
 
 # Blogroll
-LINKS =  (('Dylan Foundry', 'http://dylanfoundry.org/'),)
+LINKS =  (('Dylan Foundry', 'http://dylanfoundry.org/'),
+          ('Open Dylan', 'http://opendylan.org/'))
+
+# Social widget
+SOCIAL = (('icon-twitter', '@ArmyOfBruce', 'https://twitter.com/ArmyOfBruce'),
+          ('icon-heart', 'Tip me via GitTip', 'https://www.gittip.com/waywardmonkeys/'),)
 
 TWITTER_USERNAME = 'ArmyOfBruce'
 
