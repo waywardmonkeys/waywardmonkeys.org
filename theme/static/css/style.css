@@ -76,3 +76,10 @@ img.align-right {
 div.comments {
   padding-top: 20px;
 }
+
+blockquote p {
+  font-weight: initial;
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0 0 10px;
+}
