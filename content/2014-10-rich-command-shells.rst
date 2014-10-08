@@ -92,7 +92,7 @@ What did presentations, as shown in CLIM, get right? CLIM provided:
 * Rich output types, not just text.
 * Interactive output via the mouse. Output could be used to fill
   requirements for subsequent commands. (Like selecting a file from
-  a previous ``SHow Directory`` when prompted for a file.)
+  a previous ``Show Directory`` when prompted for a file.)
 
 CLIM did a lot of things very well and provided a pretty enjoyable
 environment within which to work.
