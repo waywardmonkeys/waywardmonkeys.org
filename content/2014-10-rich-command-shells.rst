@@ -100,8 +100,30 @@ environment within which to work.
 Notebook Interfaces
 -------------------
 
-...
+Notebook interfaces are interactive documents that represent the
+history of commands that have been run within a session. They can
+usually be saved, replayed, and shared with other people. While
+`Mathematica`_ was one of the early pioneers in this area, the
+`iPython`_ implementation is widely used and supports multiple
+languages, not just Python.
 
+The iPython notebook interface can be used with multiple front-ends:
+
+.. figure:: /static/images/command-shell-ipython-terminal.png
+   :align: center
+
+   iPython running in a terminal
+
+.. figure:: /static/images/command-shell-ipython-notebook.png
+   :align: center
+
+   iPython using a web browser to display the notebook
+
+iPython (and other notebook interfaces) typically support rich multimedia,
+including code with syntax highlighting, mathematical formulas, graphs,
+charts, and formatted text.
+
+iPython 2.0 adds support for `interactive widgets`_
 
 Rich Terminal Applications
 --------------------------
@@ -122,6 +144,11 @@ useful for the type of application that we're looking to build. These
 tend to assume that you're creating a new ecosystem surrounding replacing
 the Unix shell experience.
 
+.. figure:: /static/images/command-shell-graphterm-ssh-plot.png
+   :align: center
+
+   An example GraphTerm screenshot
+
 Textual Game Interfaces
 -----------------------
 
@@ -141,6 +168,13 @@ communication protocol known as `MCP`_).
 There was a lot of interesting work in this area, much of it largely
 lost to the sands of time.
 
+I found an old screenshot of a game client that we did with IE, a
+custom control for talking to the game server, and a whole lot of JavaScript
+and CSS back in 2002 or 2003:
+
+.. figure:: /static/images/command-shell-grendels-revenge.png
+   :align: center
+
 Others
 ------
 
@@ -158,6 +192,9 @@ Our Applications
 .. _Common Lisp Interface Manager: http://en.wikipedia.org/wiki/Common_Lisp_Interface_Manager
 .. _CLIM specification: http://bauhh.dyndns.org:8000/clim-spec/23-1.html
 .. _CLIM Listener from Wikipedia: http://en.wikipedia.org/wiki/File:Listener.png
+.. _Mathematica: https://reference.wolfram.com/language/tutorial/UsingANotebookInterface.html
+.. _iPython: http://ipython.org/
+.. _interactive widgets: http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/Interactive%20Widgets/Index.ipynb
 .. _XMLterm: http://www.xml.com/pub/a/2000/06/07/xmlterm/
 .. _TermKit: https://github.com/unconed/TermKit
 .. _GraphTerm: https://github.com/mitotic/graphterm
