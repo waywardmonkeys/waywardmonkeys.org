@@ -20,6 +20,15 @@
   padding: 5px;
 }
 
+.caption {
+  text-align: center;
+  font-style: italic;
+}
+
+.img-polaroid {
+  margin: 10px;
+}
+
 #content {
   margin-bottom: 20px;
 }
