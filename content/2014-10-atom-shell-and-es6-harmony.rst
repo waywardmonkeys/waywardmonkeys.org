@@ -36,5 +36,5 @@ it falls in between the Chromium 37 and 39 columns on this
 for figuring out what Atom Shell supports!)
 
 .. _Atom Shell: https://github.com/atom/atom-shell
-.. _ES6 (Harmony): https://github.com/atom/atom-shell
+.. _ES6 (Harmony): http://en.wikipedia.org/wiki/ECMAScript#ECMAScript_Harmony_.286th_Edition.29
 .. _compatibility chart: http://kangax.github.io/compat-table/es6/
