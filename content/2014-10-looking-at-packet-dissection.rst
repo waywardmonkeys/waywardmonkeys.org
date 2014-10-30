@@ -1,6 +1,7 @@
-Looking at Packet Dissection
-############################
+Looking at Packet Capture and Dissection
+########################################
 
+:slug: looking-at-packet-dissection
 :author: Bruce Mitchener, Jr.
 :date: 2014-10-26
 :category: Development
