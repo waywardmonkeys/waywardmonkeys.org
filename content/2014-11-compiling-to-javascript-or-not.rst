@@ -2,10 +2,9 @@ Compiling to Javascript or not?
 ###############################
 
 :author: Bruce Mitchener, Jr.
-:date: 2014-11-10
+:date: 2014-11-16
 :category: Development
 :tags: JavaScript
-:status: draft
 
 JavaScript is commonly seen as a flawed language. It has plenty
 of flaws, some of which are more painful than others. One common
@@ -55,7 +54,7 @@ to JavaScript are fairly well known and understood.
 
 However, when evaluating whether or not to use an alternative
 language to compile to JavaScript or rather to write directly
-in JavaScript now, it seems there are a lot of potential downsides.
+in JavaScript now, it seems there are some potential downsides.
 
 Keeping up with JavaScript
 --------------------------
@@ -80,12 +79,28 @@ issue for TypeScript.
 Bi-Directional Interoperability?
 --------------------------------
 
-...
+It is important to me that I be able to invoke JavaScript libraries
+from whatever language I am using. However, it is also important
+that I be able to write libraries in this language and be able to
+invoke them from JavaScript.
+
+This isn't an issue for CoffeeScript or TypeScript, but it is an
+issue for PureScript and others where the interoperability is not
+bi-directional.
 
 Loss of Control
 ---------------
 
-...
+Any time you start to use something that you don't write and
+manage yourself, you potentially lose some control. You need to
+convince another community that something is desirable, or useful,
+or even doable.
+
+When working with JavaScript, you have already ceded a lot of
+control over your platform. By using Atom Shell, I've conceded
+even more. What happens if I need something from the language
+that I'm using that doesn't exist yet? How friendly to contributions
+is the language community? How set in stone are they?
 
 Toolchain Support
 -----------------
@@ -95,6 +110,17 @@ Does the compiler produce decent feedback on errors of various sorts?
 
 This is clearly much easier when the compiler is written in or compiles
 to JavaScript.
+
+What am I going to do?
+======================
+
+When I started writing this post, I had thought that I would decide
+to just use JavaScript directly.
+
+However, for now at least, I am going to try to use TypeScript. I
+have a lot to learn, but I think TypeScript comes pretty close to
+meeting my requirements and the type system and community adoption
+are both pretty nice things.
 
 .. _many choices: https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js
 .. _Atom Shell: https://github.com/atom/atom-shell/
