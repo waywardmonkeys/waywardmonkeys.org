@@ -2,10 +2,9 @@ Building A Rich Command Shell
 #############################
 
 :author: Bruce Mitchener, Jr.
-:date: 2014-10-20
+:date: 2015-04-27
 :category: Development
 :tags: Textual Interfaces
-:status: draft
 
 Previously, I wrote about some existing examples of `Rich Command Shells`_,
 some from the past, some from the present.
@@ -175,6 +174,8 @@ to represent the data.
 
 The `Docutils Document Tree`_ provides a fairly solid basis and is a
 useful starting point.
+
+We'll look at this approach in a new post soon.
 
 .. _Rich Command Shells: http://waywardmonkeys.org/2014/10/10/rich-command-shells/
 .. _Open Dylan: http://opendylan.org/
