@@ -32,7 +32,7 @@ For my interests, I want to see:
 
 The shorter version of this is:
 
-* It should work like things to do today, in the existing environment.
+* It should work like things do today, in the existing environment.
 * It should adaptively support richer means of interaction as well without
   violating typical assumptions of today.
 * The means of adaptation should be flexible and allow progressively
