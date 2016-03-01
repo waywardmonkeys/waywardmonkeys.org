@@ -7,6 +7,15 @@ Engineering the Software Commons
 :tags: Open Source, Software Commons
 :status: draft
 
+I started writing this post sometime around this time last year,
+but kept putting off finishing it. Since then, there's been some
+interesting discussion about the funding and financing of Open
+Source work:
+
+* `Money, Money, Money - Writing software, in a rich (wo)man's world`_
+* `Throwing in the Towel`_
+* `Funding OSS`_
+
 A lot of money is floating around these days in the technical
 space.  Yet not much of it seems to make its way into maintaining
 our core tools, improving the overall state of the art, or doing
@@ -25,7 +34,10 @@ software commons.
 Resources beyond the imagination of someone in 1995 are available
 to almost everyone today. Tools and services are often better than
 they were in the past. Many major ecosystems are built largely or
-entirely on Open Source or Free Software.
+entirely on Open Source or Free Software. Many companies rely
+on Open Source or Free Software at their core, whether it be the
+compilers the use, the operating systems, the databases, the
+programming languages or libraries.
 
 So why the Nostalgia?
 ---------------------
@@ -235,6 +247,9 @@ Google Summer of Code
 
 ...
 
+.. _Money, Money, Money - Writing software, in a rich (wo)man's world: https://www.youtube.com/watch?v=mY8B2lXIu6g
+.. _Throwing in the Towel: http://www.drmaciver.com/2015/08/throwing-in-the-towel/
+.. _Funding OSS: https://lukasa.co.uk/2015/08/Funding_OSS/
 .. _Xerox PARC: http://en.wikipedia.org/wiki/PARC_(company)
 .. _InterLisp: http://en.wikipedia.org/wiki/Interlisp
 .. _LambdaMOO: http://en.wikipedia.org/wiki/LambdaMOO
