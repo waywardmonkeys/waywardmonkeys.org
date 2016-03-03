@@ -2,9 +2,9 @@ Querying OS Information
 #######################
 
 :author: Bruce Mitchener, Jr.
-:date: 2016-03-01
+:date: 2016-03-07
 :category: Development
-:tags: Workbench
+:tags: Workbench, Thinking Out Loud
 :status: draft
 
 For a project that I'm working on, I would like to be able to retrieve
@@ -70,8 +70,9 @@ concerns. They have a product that they're happy with and are continuing
 to develop. My concerns and requirements don't exactly match up against
 theirs. And maybe that's fine!
 
-... Add more here about GraphQL and other things ...
-
+For other reasons, which I'll detail in a different post and as noted
+briefly above, it is really tempting to work out a way to query data like
+this with GraphQL.
 
 .. _JSON-LD: http://json-ld.org/
 .. _GraphQL: http://graphql.org/
