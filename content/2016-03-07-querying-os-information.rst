@@ -5,7 +5,6 @@ Querying OS Information
 :date: 2016-03-07
 :category: Development
 :tags: Workbench, Thinking Out Loud
-:status: draft
 
 For a project that I'm working on, I would like to be able to retrieve
 information from the OS about a variety of things:
