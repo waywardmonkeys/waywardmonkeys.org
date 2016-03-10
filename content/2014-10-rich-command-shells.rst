@@ -88,6 +88,7 @@ The capabilities of CLIM can be, perhaps, be illustrated more clearly:
 .. class:: img-polaroid
 .. figure:: /static/images/command-shell-lisp-listener.png
    :align: center
+   :alt: CLIM listener screenshot
 
    A screenshot of the `CLIM Listener from Wikipedia`_.
 
@@ -128,6 +129,7 @@ keynote by Stephen Wolfram. It really is something to be seen.
 .. class:: img-polaroid
 .. figure:: /static/images/command-shell-mathematica.gif
    :align: center
+   :alt: Mathematic screenshot
 
    Mathematica's Notebook interface
 
@@ -139,12 +141,14 @@ The iPython notebook interface can be used with multiple front-ends:
 .. class:: img-polaroid
 .. figure:: /static/images/command-shell-ipython-terminal.png
    :align: center
+   :alt: iPython in terminal screenshot
 
    iPython running in a terminal
 
 .. class:: img-polaroid
 .. figure:: /static/images/command-shell-ipython-notebook.png
    :align: center
+   :alt: iPython in web browser screenshot
 
    iPython using a web browser to display the notebook
 
@@ -164,6 +168,7 @@ support this (among others).  gnuplot and netpbm support Sixel output:
 .. class:: img-polaroid
 .. figure:: /static//images/command-shell-sixel-gnuplot.png
    :align: center
+   :alt: libsixel screenshot
 
    Image from `libsixel`_
 
@@ -191,6 +196,7 @@ the Unix shell experience.
 .. class:: img-polaroid
 .. figure:: /static/images/command-shell-graphterm-ssh-plot.png
    :align: center
+   :alt: GraphTerm screenshot
 
    An example GraphTerm screenshot
 
@@ -220,6 +226,7 @@ and CSS back in 2002 or 2003:
 .. class:: img-polaroid
 .. figure:: /static/images/command-shell-grendels-revenge.png
    :align: center
+   :alt: Grendel's Revene screenshot
 
 Another interesting aspect of textual interfaces in games is that they
 often required some formatting of the text itself. In some MOO and the
