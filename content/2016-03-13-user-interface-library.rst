@@ -13,8 +13,8 @@ want too much.
 So, what am I looking for? These are just my own personal desires and
 I certainly don't expect that everyone will agree with them.
 
-Requirements
-============
+My Requirements
+===============
 
 * React
 * TypeScript
@@ -26,7 +26,7 @@ Requirements
 React
 -----
 
-I'm planning to use React in my rendering layer, so it would be nice if
+I'm planning to use `React`_ in my rendering layer, so it would be nice if
 the user interface framework that I use has solid support for React.
 This seems like a no-brainer.  That said, there is another layer in my
 architecture which describes user interfaces and that is what gets
@@ -37,9 +37,9 @@ like React Native). But for the start, I need solid React support.
 TypeScript
 ----------
 
-Much like my desire for React support, I am writing my code in TypeScript.
+Much like my desire for React support, I am writing my code in `TypeScript`_.
 That doesn't mean that the UI *has* to be in TypeScript, but it would
-make it more convenient. Otherwise, typing definition files (`.d.ts`)
+make it more convenient. Otherwise, typing definition files (``.d.ts``)
 would need to be maintained and kept up to date. This can be done for
 a framework that already exists, but will always be something of a
 maintenance burden.
@@ -59,7 +59,7 @@ ARIA Attributes
 ---------------
 
 Having an application be accessible seems like a good goal to have.
-This means providing ARIA attributes on our widgets and generated
+This means providing `ARIA`_ attributes on our widgets and generated
 HTML.
 
 Theming
@@ -96,3 +96,7 @@ frameworks that make me happy.
 * Ant Design
 
 ... Write about each of the above and others ...
+
+.. _React: http://facebook.github.io/react/
+.. _TypeScript: http://www.typescriptlang.org/
+.. _ARIA: https://www.w3.org/WAI/intro/aria
