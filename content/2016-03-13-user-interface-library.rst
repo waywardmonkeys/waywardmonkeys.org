@@ -22,6 +22,7 @@ My Requirements
 * ARIA attributes
 * Theming
 * Internationalization / localization
+* Actively maintained
 
 React
 -----
@@ -84,6 +85,13 @@ In addition to supporting localized display of numbers, dates,
 and other information, all text messages should be localized.
 Like theming, this is something that needs to be built into
 the framework in a consistent and comprehensive way.
+
+Actively Maintained
+-------------------
+
+I don't want to use a library which isn't being actively
+maintained. I'd like to see recent activity, both in terms
+of improvements as well as bug fixes.
 
 What's out there?
 =================
