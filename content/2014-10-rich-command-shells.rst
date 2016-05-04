@@ -86,7 +86,7 @@ A shorter, more `concise description`_, might be:
 The capabilities of CLIM can be, perhaps, be illustrated more clearly:
 
 .. class:: img-polaroid
-.. figure:: /static/images/command-shell-lisp-listener.png
+.. figure:: /images/command-shell-lisp-listener.png
    :align: center
    :alt: CLIM listener screenshot
 
@@ -127,7 +127,7 @@ time to watch Mathematica `in action`_ during the Strange Loop 2014
 keynote by Stephen Wolfram. It really is something to be seen.
 
 .. class:: img-polaroid
-.. figure:: /static/images/command-shell-mathematica.gif
+.. figure:: /images/command-shell-mathematica.gif
    :align: center
    :alt: Mathematic screenshot
 
@@ -139,14 +139,14 @@ supports multiple languages, not just Python.
 The iPython notebook interface can be used with multiple front-ends:
 
 .. class:: img-polaroid
-.. figure:: /static/images/command-shell-ipython-terminal.png
+.. figure:: /images/command-shell-ipython-terminal.png
    :align: center
    :alt: iPython in terminal screenshot
 
    iPython running in a terminal
 
 .. class:: img-polaroid
-.. figure:: /static/images/command-shell-ipython-notebook.png
+.. figure:: /images/command-shell-ipython-notebook.png
    :align: center
    :alt: iPython in web browser screenshot
 
@@ -166,7 +166,7 @@ with `Sixel`_ graphics. The terminal emulators `mlterm`_ and `Tanasinn`_
 support this (among others).  gnuplot and netpbm support Sixel output:
 
 .. class:: img-polaroid
-.. figure:: /static//images/command-shell-sixel-gnuplot.png
+.. figure:: /images/command-shell-sixel-gnuplot.png
    :align: center
    :alt: libsixel screenshot
 
@@ -194,7 +194,7 @@ tend to assume that you're creating a new ecosystem surrounding replacing
 the Unix shell experience.
 
 .. class:: img-polaroid
-.. figure:: /static/images/command-shell-graphterm-ssh-plot.png
+.. figure:: /images/command-shell-graphterm-ssh-plot.png
    :align: center
    :alt: GraphTerm screenshot
 
@@ -224,7 +224,7 @@ custom control for talking to the game server, and a whole lot of JavaScript
 and CSS back in 2002 or 2003:
 
 .. class:: img-polaroid
-.. figure:: /static/images/command-shell-grendels-revenge.png
+.. figure:: /images/command-shell-grendels-revenge.png
    :align: center
    :alt: Grendel's Revene screenshot
 
