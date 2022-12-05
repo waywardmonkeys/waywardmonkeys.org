@@ -1,9 +1,8 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-
 AUTHOR = u"Bruce Mitchener, Jr."
 SITENAME = u"Notes from a Wayward Monkey"
 SITEURL = 'http://waywardmonkeys.org'
+
+PATH = 'content'
 
 TIMEZONE = 'UTC'
 
